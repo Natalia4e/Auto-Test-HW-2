@@ -7,6 +7,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+// лучше было сделать проверку одной конкретной игры при конкретных условиях.
+// т.е. проверить выигрыш при конкретных условиях, аналогично проигрыш
 public class GameTest {
 
     @Test
