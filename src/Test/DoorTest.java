@@ -3,6 +3,7 @@ package MontiHall;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
+//не опнятен смысл теста
 public class DoorTest {
 
     @Test
