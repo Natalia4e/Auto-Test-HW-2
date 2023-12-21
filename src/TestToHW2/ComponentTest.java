@@ -1,3 +1,5 @@
+//тут будет пакет TestToHW2
+//тесты не компилятся, надо поправить их. Сделать импорт и добавить junit зависимость
 package Homework2;
 
 import org.junit.jupiter.api.BeforeAll;
