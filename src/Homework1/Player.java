@@ -1,4 +1,4 @@
-package MontiHall;
+package Homework1;
 
 /**
  * Класс для описания игрока
